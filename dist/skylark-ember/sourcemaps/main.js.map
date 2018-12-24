@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","ember"],"mappings":";;;;;;;AAAAA,QACC,WACC,SAASC,GACV,OAAOA","file":"../main.js","sourcesContent":["define([\r\n\t\"./ember\"\r\n],function(ember){\r\n\treturn ember;\r\n});"]}

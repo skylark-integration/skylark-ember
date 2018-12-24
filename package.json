@@ -1,0 +1,30 @@
+{
+  "name": "skylark-ember",
+  "description": "A version of emberjs framework that ported to running on skylarkjs.",
+  "version": "0.9.0",
+  "keywords": [
+    "skylark",
+    "framework",
+    "ember"
+  ],
+  "homepage": "https://github.com/skylark-integration/skylark-ember/",
+  "author": "Hudaokeji, Inc.",
+  "scripts": {
+    "build": "sbundle build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skylark-integration/skylark-ember.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skylark-integration/skylark-ember/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "skylark-langx": "git+https://github.com/skylarklangx/skylark-langx.git#master",
+    "skylark-utils-dom": "git+https://github.com/skylarkutils/skylark-utils-dom.git#master"
+  },
+  "engines": {
+    "node": ">=0.10.1"
+  }
+}
